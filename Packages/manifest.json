@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.codebyfire.modcontentcreator": "https://github.com/codebyfire/mod-content-creator.git",
+    "com.codebyfire.colonistsmodassetbundlebuilder": "https://github.com/codebyfire/colonists-mod-asset-bundle-builder.git",
     "com.unity.test-framework": "1.1.31",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.ugui": "1.0.0",

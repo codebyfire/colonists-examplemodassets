@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "com.codebyfire.modcontentcreator": {
-      "version": "https://github.com/codebyfire/mod-content-creator.git",
+    "com.codebyfire.colonistsmodassetbundlebuilder": {
+      "version": "https://github.com/codebyfire/colonists-mod-asset-bundle-builder.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "01ecfde165db1e08ffe2486277777461055872a7"
+      "hash": "39f59a7642ef3d3bd462e080d2637c21709063da"
     },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
