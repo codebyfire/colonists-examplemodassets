@@ -32,7 +32,7 @@ Transform:
   m_Children:
   - {fileID: 848297303363848738}
   m_Father: {fileID: 1805609558424493974}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!111 &533615077308790122
 Animation:
@@ -4835,7 +4835,7 @@ GameObject:
   - component: {fileID: 2852241426624059107}
   - component: {fileID: 2554422434545766052}
   m_Layer: 9
-  m_Name: Main_Burn (1)
+  m_Name: Main_Burn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5014,8 +5014,8 @@ Transform:
   m_Children:
   - {fileID: 6228735141767583740}
   - {fileID: 2937359890649358737}
-  - {fileID: 6664077898797370058}
   - {fileID: 3216832819831048762}
+  - {fileID: 6664077898797370058}
   m_Father: {fileID: 2088412495427699371}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5031,7 +5031,7 @@ GameObject:
   - component: {fileID: 1038911037569515938}
   - component: {fileID: 4249280190737998169}
   m_Layer: 9
-  m_Name: Main_Burn (2)
+  m_Name: Main_Burn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5221,7 +5221,7 @@ GameObject:
   - component: {fileID: 8129473884646037423}
   - component: {fileID: 3381166105171793813}
   m_Layer: 0
-  m_Name: Main_Burn (1)
+  m_Name: Main_Burn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5239,7 +5239,7 @@ Transform:
   m_LocalScale: {x: 0.666289, y: 1.2, z: 1.1070422}
   m_Children: []
   m_Father: {fileID: 1805609558424493974}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8129473884646037423
 MeshFilter:
@@ -5494,7 +5494,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1192557680682338, guid: 6274df178678ae84290d5a3b76b562f2, type: 3}
       propertyPath: m_Name
-      value: Rubble_Bricks_Burn (1)
+      value: Rubble_Bricks_Burn
       objectReference: {fileID: 0}
     - target: {fileID: 4877540076741800, guid: 6274df178678ae84290d5a3b76b562f2, type: 3}
       propertyPath: m_RootOrder
